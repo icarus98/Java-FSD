@@ -1,0 +1,16 @@
+Java 
+Arithmetic Operators
++ - * / %
+Relational Operators
+> >= < <= == !=
+Logical 
+&& || !
+-------------------------------------------------------------------------
+Predefined class 
+Java.util  --Scanner
+Java.lang --String, System
+ -------------------------------------------------------------
+ String - is a sequence of characters
+          In java String is a Class which is available in java.lang package
+ String is not a primitive data type it is a class but it can be used as primitive data type.
+ 

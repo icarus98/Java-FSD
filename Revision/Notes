@@ -1,0 +1,62 @@
+Arithmetic Operators>>
++ - * / %
+Relational Operators>>
+> >= < <= == !=
+Logical >>
+&& || !
+Bitwise >>
+& -  and
+| - or
+~ - not/complement
+^ - xor
+a>>n -right shift  //divide by 2^n
+a<<n -left shift   //multiply by 2^n  int a = 4; int b = a<<3; //b=32
+-------------------------------------------------------------------------
+Predefined class 
+Java.util  --Scanner
+Java.lang --String, System
+ -------------------------------------------------------------
+ String - is a sequence of characters
+          In java String is a Class which is available in java.lang package
+ String is not a primitive data type it is a class but it can be used as primitive data type.
+ --------------------------------------------------------------------------
+ int/int - int
+ float*float -float
+ float/float -float
+ int + float - float
+ int*float + double -double
+ -------------------------------------------------------------------------
+ type casting
+ -covert values from one datatype to another datatype
+ *Widening *Narrowing
+ double
+ float
+ long
+ int
+ short
+ byte
+ Widening - assigning lower datatype to higher datatype
+  byte v1 = 32;
+ int a = v1; // widening
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
